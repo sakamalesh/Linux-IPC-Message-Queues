@@ -86,9 +86,10 @@ return 0;
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/e2c57494-46a7-4842-9701-f41f4883fabb)
+![image-1](https://github.com/user-attachments/assets/1d4068d6-301b-42b6-b561-6ffa66b2b1f7)
 
-![alt text](image.png)
-![alt text](image-1.png)
+
 
 # RESULT:
 The programs are executed successfully.
